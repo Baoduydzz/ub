@@ -4206,3 +4206,13 @@
 127.0.0.1 https://clientbp.ggpolarbear.com/GetAPIMatchPool
 127.0.0.1 https://clientbp.ggpolarbear.com/GetLoginData
 127.0.0.1 https://100067.connect.garena.com/game/social-profile/info?app_id=100067&access_token=ce18f27a8b767babd8adec55656e7942217751e8153a09a478a27f8c9995d4d8
+127.0.0.1 api.freefiremobile.com
+127.0.0.1 client.freefiremobile.com
+127.0.0.1 login.freefiremobile.com
+127.0.0.1 auth.freefiremobile.com
+127.0.0.1 room.freefiremobile.com
+127.0.0.1 match.freefiremobile.com
+127.0.0.1 game.freefiremobile.com
+127.0.0.1 anticheat.freefiremobile.com
+127.0.0.1 static.freefiremobile.com
+127.0.0.1 cdn.freefiremobile.com
